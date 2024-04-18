@@ -17,8 +17,7 @@ let arrayCards = []
         arrayCards.push(elemento);
     })
 
-    cardContainer.innerHTML= arrayCards.join('');     
-   
+    cardContainer.innerHTML= arrayCards.join('');        
 
 }
 
